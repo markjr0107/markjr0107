@@ -1,4 +1,4 @@
-### Ola ! Sou o Mark Junior 🤜🤛
+### Olá ! Sou o Mark Junior 🤜🤛
 
 
 [![Blog](	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
