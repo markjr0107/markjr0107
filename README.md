@@ -1,4 +1,4 @@
-### Olá ! Sou o Mark Junior 🤜🤛
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mark+Davis+Junior;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
 [![Blog](	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
