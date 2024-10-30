@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>👋 Olá! Seja bem-vindo ao meu perfil!</h2>
-  <p>🌟 DevOps Junior | 💻 Engenharia da Computação | 🚀 Apaixonado por Tecnologia e Automação 🌟</p>
+  <p>🌟 DevOps com foco em AWS | 💻 Engenharia da Computação | 🚀 Apaixonado por IaC e Automação 🌟</p>
 </div>
 
 <div align="center">
@@ -25,6 +25,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge">
   <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt Badge">
@@ -38,11 +39,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjr0107&theme=dracula&bg_color=282a36&hide_border=true" alt="markjr0107 Activity Graph"/>
 </div>
 
-- 💻 **DevOps Junior** com foco em infraestrutura como código (IaC) usando **Terraform** e **Terragrunt**.
-- 👨‍💻 Interesse em **JavaScript**, **Node.js** e **Kubernetes** para desenvolvimento de ambientes escaláveis e robustos.
+- 💻 **DevOps Junior** com foco em infraestrutura como código (IaC) e **AWS**.
+- 👨‍💻 Interesse em **Kubernetes**, **Terraform**, e **Terragrunt** para criação de ambientes escaláveis e robustos.
 - 🎓 Formado em **Engenharia da Computação**.
-- 💼 Experiência em automação de deploys, **CI/CD** e gestão de recursos em nuvem.
-- 🌍 Sempre em busca de novas oportunidades para aprender e expandir meu conhecimento em **DevOps** e desenvolvimento.
+- 💼 Experiência em automação de deploys, **CI/CD** e gerenciamento de recursos em nuvem.
+- 🌍 Sempre em busca de novas oportunidades para aprender e expandir meu conhecimento em **DevOps** e tecnologias de nuvem.
 
 ---
 
