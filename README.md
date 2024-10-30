@@ -25,8 +25,6 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge">
   <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt Badge">
