@@ -39,11 +39,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjr0107&theme=dracula&bg_color=282a36&hide_border=true" alt="markjr0107 Activity Graph"/>
 </div>
 
-- 💻 **DevOps Junior** com foco em infraestrutura como código (IaC) e **AWS**.
-- 👨‍💻 Interesse em **Kubernetes**, **Terraform**, e **Terragrunt** para criação de ambientes escaláveis e robustos.
+- 💻 **DevOps Junior** com foco em **AWS** e infraestrutura como código (IaC).
+- ⚙️ Entusiasta de **Kubernetes**, **Terraform**, e **Terragrunt** para ambientes escaláveis e automatizados.
 - 🎓 Formado em **Engenharia da Computação**.
-- 💼 Experiência em automação de deploys, **CI/CD** e gerenciamento de recursos em nuvem.
-- 🌍 Sempre em busca de novas oportunidades para aprender e expandir meu conhecimento em **DevOps** e tecnologias de nuvem.
+- 💼 Experiência em **automação de deploys**, **CI/CD** e **gerenciamento de nuvem**.
+- 🌍 Explorando continuamente o mundo **DevOps** e novas tecnologias para otimizar processos.
 
 ---
 
