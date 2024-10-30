@@ -12,43 +12,66 @@
 
 <div align="center">
   <h2>👋 Olá! Seja bem-vindo ao meu perfil!</h2>
-  <p>🌟 DevOps com foco em AWS | 💻 Engenharia da Computação | 🚀 Apaixonado por IaC e Automação 🌟</p>
+  <p>🌟 <strong>DevOps com foco em AWS</strong> | <strong>Engenharia da Computação</strong> | <strong>Apaixonado por IaC e Automação</strong> 🌟</p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markjr0107&show_icons=true&theme=dracula&hide_border=true" alt="markjr0107 GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjr0107&hide_progress=true&theme=dracula&layout=compact&hide_border=true" alt="Top Langs" width="48%">
+---
+
+## 📊 Estatísticas e Tecnologias
+
+<div align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center; padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="https://github-readme-stats.vercel.app/api?username=markjr0107&show_icons=true&theme=dracula&hide_border=true" alt="markjr0107 GitHub stats" width="45%" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjr0107&hide_progress=true&theme=dracula&layout=compact&hide_border=true" alt="Top Langs" width="45%" style="border-radius: 10px;"/>
+</div>
+
+<div align="center" style="padding: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjr0107&theme=dracula&bg_color=282a36&hide_border=true" alt="markjr0107 Activity Graph"/>
 </div>
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge">
-  <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt Badge">
+<div align="center" style="padding: 10px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge" />
+  <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt Badge" />
 </div>
 
 ---
 
 ## 🌱 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjr0107&theme=dracula&bg_color=282a36&hide_border=true" alt="markjr0107 Activity Graph"/>
+<div align="center" style="padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <table align="center">
+    <tr>
+      <td><strong>💻 DevOps :</strong></td>
+      <td>Especializado em <strong>AWS</strong> e infraestrutura como código (IaC) para ambientes escaláveis.</td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Tecnologias:</strong></td>
+      <td>Focado em <strong>Kubernetes</strong>, <strong>Terraform</strong>, e <strong>Terragrunt</strong> para orquestração e provisionamento.</td>
+    </tr>
+    <tr>
+      <td><strong>🚀 Deploys Automatizados:</strong></td>
+      <td>Experiência com <strong>CI/CD</strong> para automação de deploys, integração contínua e pipelines de desenvolvimento robustos.</td>
+    </tr>
+    <tr>
+      <td><strong>🎓 Formação:</strong></td>
+      <td>Graduado em <strong>Engenharia da Computação</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>🌍 Curiosidade:</strong></td>
+      <td>Explorador contínuo do mundo <strong>DevOps</strong>, buscando tecnologias para otimização e inovação.</td>
+    </tr>
+  </table>
 </div>
-
-- 💻 **DevOps Junior** com foco em **AWS** e infraestrutura como código (IaC).
-- ⚙️ Entusiasta de **Kubernetes**, **Terraform**, e **Terragrunt** para ambientes escaláveis e automatizados.
-- 🎓 Formado em **Engenharia da Computação**.
-- 💼 Experiência em **automação de deploys**, **CI/CD** e **gerenciamento de nuvem**.
-- 🌍 Explorando continuamente o mundo **DevOps** e novas tecnologias para otimizar processos.
 
 ---
 
 <div align="center">
-  <h3> "A persistência é o caminho do êxito." </h3>
+  <h3><em> "Construindo o futuro, linha por linha." </em></h3>
 </div>
 
 <div align="center">
