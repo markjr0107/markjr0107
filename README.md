@@ -41,6 +41,18 @@
 
 ---
 
+## 🏆 Principais Projetos
+
+<div align="center" style="padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <ul>
+    <li><strong>Automatização de Deploys AWS:</strong> Desenvolvimento de pipelines CI/CD robustos para otimizar o tempo de entrega e reduzir erros de deploy.</li>
+    <li><strong>Infraestrutura como Código:</strong> Provisionamento de ambientes AWS com Terraform e Terragrunt, garantindo escalabilidade e segurança.</li>
+    <li><strong>Orquestração com Kubernetes:</strong> Implantação e gerenciamento de clusters para apps de alto desempenho.</li>
+  </ul>
+</div>
+
+---
+
 ## 🌱 Sobre mim
 
 <div align="center" style="padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
