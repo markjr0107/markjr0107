@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=100&section=header"/>
 </div>
 
 ---
@@ -101,5 +101,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=100&section=footer"/>
 </div>
