@@ -53,25 +53,19 @@
 
 ---
 
-## 💡 Habilidades
+## 🔧 Ferramentas Favoritas
 
-**AWS**  
-🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
+<div align="center" style="padding: 10px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS CLI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLI" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+</div>
 
-**Terraform**  
-🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 80%
-
-**Kubernetes**  
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 75%
-
-**CI/CD**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 85%
-
-**Python**  
-🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 60%
-
-**JavaScript**  
-🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 70%
 
 ---
 
