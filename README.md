@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Mark+Davis+Junior!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+GitHub!;Sou+Mark,+especialista+em+DevOps!&center=true&width=500&height=50">
   </a>
 </h1>
 
@@ -8,12 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=100&section=header"/>
 </div>
 
----
-
-<div align="center">
-  <h2>👋 Olá! Seja bem-vindo ao meu perfil!</h2>
-  <p>🌟 <strong>DevOps com foco em AWS</strong> | <strong>Engenharia da Computação</strong> | <strong>Apaixonado por IaC e Automação</strong> 🌟</p>
-</div>
+<p align="center">🚀 Explorando o mundo da automação, infraestrutura escalável e práticas DevOps de ponta! 🚀</p>
 
 ---
 
@@ -37,33 +32,15 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge" />
   <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt Badge" />
+  <img src="https://img.shields.io/badge/ArgoCD-EA4C89?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD Badge" />
+  <img src="https://img.shields.io/badge/Atlantis-02A7D8?style=for-the-badge&logo=terraform&logoColor=white" alt="Atlantis Badge" />
+  <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps Badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/AWS CLI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLI Badge" />
 </div>
-
----
-
-## 🏆 Principais Projetos
-
-<div align="center" style="padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-  <ul>
-    <li><strong>Automatização de Deploys AWS:</strong> Desenvolvimento de pipelines CI/CD robustos para otimizar o tempo de entrega e reduzir erros de deploy.</li>
-    <li><strong>Infraestrutura como Código:</strong> Provisionamento de ambientes AWS com Terraform e Terragrunt, garantindo escalabilidade e segurança.</li>
-    <li><strong>Orquestração com Kubernetes:</strong> Implantação e gerenciamento de clusters para apps de alto desempenho.</li>
-  </ul>
-</div>
-
----
-
-## 🔧 Ferramentas Favoritas
-
-<div align="center" style="padding: 10px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-  <img src="https://img.shields.io/badge/Terragrunt-222222?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS CLI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLI" />
-</div>
-
 
 ---
 
@@ -77,7 +54,7 @@
     </tr>
     <tr>
       <td><strong>⚙️ Tecnologias:</strong></td>
-      <td>Focado em <strong>Kubernetes</strong>, <strong>Terraform</strong>, e <strong>Terragrunt</strong> para orquestração e provisionamento.</td>
+      <td>Focado em <strong>Kubernetes</strong>, <strong>Terraform</strong>, <strong>Terragrunt</strong>, <strong>ArgoCD</strong>, e práticas de <strong>GitOps</strong>.</td>
     </tr>
     <tr>
       <td><strong>🚀 Deploys Automatizados:</strong></td>
@@ -92,6 +69,19 @@
       <td>Explorador contínuo do mundo <strong>DevOps</strong>, buscando tecnologias para otimização e inovação.</td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🌐 Vamos nos conectar!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mark-davis-júnior" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:markdavisjr01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 ---
