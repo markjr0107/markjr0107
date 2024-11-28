@@ -14,13 +14,13 @@
 
 ## 📊 Estatísticas e Tecnologias
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center; padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-  <img src="https://github-readme-stats.vercel.app/api?username=markjr0107&show_icons=true&theme=dracula&hide_border=true" alt="markjr0107 GitHub stats" width="45%" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjr0107&hide_progress=true&theme=dracula&layout=compact&hide_border=true" alt="Top Langs" width="45%" style="border-radius: 10px;"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markjr0107&show_icons=true&theme=dracula&hide_border=true&token=SEU_TOKEN_AQUI" alt="markjr0107 GitHub stats" width="45%" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjr0107&hide_progress=true&theme=dracula&layout=compact&hide_border=true&token=SEU_TOKEN_AQUI" alt="Top Langs" width="45%" style="border-radius: 10px;"/>
 </div>
 
-<div align="center" style="padding: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjr0107&theme=dracula&bg_color=282a36&hide_border=true" alt="markjr0107 Activity Graph"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjr0107&theme=dracula&bg_color=282a36&hide_border=true&token=SEU_TOKEN_AQUI" alt="Activity Graph"/>
 </div>
 
 ---
